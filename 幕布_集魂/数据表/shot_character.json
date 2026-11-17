@@ -1,0 +1,490 @@
+[
+ {
+  "id": 2,
+  "shot_id": 2,
+  "character_id": 1,
+  "character_version_id": 1,
+  "created_at": "2026-11-15 13:49:13",
+  "updated_at": "2026-11-15 13:49:13"
+ },
+ {
+  "id": 3,
+  "shot_id": 4,
+  "character_id": 5,
+  "character_version_id": 8,
+  "created_at": "2026-11-15 13:49:13",
+  "updated_at": "2026-11-15 13:49:13"
+ },
+ {
+  "id": 4,
+  "shot_id": 9,
+  "character_id": 1,
+  "character_version_id": 1,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 5,
+  "shot_id": 13,
+  "character_id": 1,
+  "character_version_id": 1,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 6,
+  "shot_id": 15,
+  "character_id": 5,
+  "character_version_id": 8,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 7,
+  "shot_id": 16,
+  "character_id": 1,
+  "character_version_id": 1,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 8,
+  "shot_id": 19,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 9,
+  "shot_id": 21,
+  "character_id": 9,
+  "character_version_id": 13,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 10,
+  "shot_id": 22,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 11,
+  "shot_id": 23,
+  "character_id": 9,
+  "character_version_id": 13,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 12,
+  "shot_id": 24,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 13,
+  "shot_id": 26,
+  "character_id": 9,
+  "character_version_id": 13,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 14,
+  "shot_id": 27,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 15,
+  "shot_id": 28,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 16,
+  "shot_id": 30,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 17,
+  "shot_id": 31,
+  "character_id": 9,
+  "character_version_id": 13,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 18,
+  "shot_id": 33,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 19,
+  "shot_id": 34,
+  "character_id": 1,
+  "character_version_id": 1,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 20,
+  "shot_id": 34,
+  "character_id": 9,
+  "character_version_id": 13,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 21,
+  "shot_id": 36,
+  "character_id": 1,
+  "character_version_id": 1,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 22,
+  "shot_id": 36,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 23,
+  "shot_id": 37,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 24,
+  "shot_id": 38,
+  "character_id": 1,
+  "character_version_id": 1,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 25,
+  "shot_id": 38,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 26,
+  "shot_id": 38,
+  "character_id": 9,
+  "character_version_id": 13,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 27,
+  "shot_id": 39,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 28,
+  "shot_id": 40,
+  "character_id": 1,
+  "character_version_id": 1,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 29,
+  "shot_id": 42,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 30,
+  "shot_id": 43,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 31,
+  "shot_id": 45,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 32,
+  "shot_id": 46,
+  "character_id": 1,
+  "character_version_id": 1,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 33,
+  "shot_id": 48,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 34,
+  "shot_id": 50,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 35,
+  "shot_id": 51,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 36,
+  "shot_id": 52,
+  "character_id": 1,
+  "character_version_id": 1,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 37,
+  "shot_id": 53,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 38,
+  "shot_id": 54,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 39,
+  "shot_id": 55,
+  "character_id": 1,
+  "character_version_id": 1,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 40,
+  "shot_id": 57,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 41,
+  "shot_id": 59,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 42,
+  "shot_id": 61,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 43,
+  "shot_id": 62,
+  "character_id": 1,
+  "character_version_id": 1,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 44,
+  "shot_id": 66,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 45,
+  "shot_id": 68,
+  "character_id": 1,
+  "character_version_id": 1,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 46,
+  "shot_id": 68,
+  "character_id": 9,
+  "character_version_id": 13,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 47,
+  "shot_id": 69,
+  "character_id": 1,
+  "character_version_id": 1,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 48,
+  "shot_id": 69,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 49,
+  "shot_id": 70,
+  "character_id": 9,
+  "character_version_id": 13,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 50,
+  "shot_id": 72,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 51,
+  "shot_id": 73,
+  "character_id": 1,
+  "character_version_id": 1,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 52,
+  "shot_id": 74,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 53,
+  "shot_id": 75,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 54,
+  "shot_id": 78,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 55,
+  "shot_id": 79,
+  "character_id": 1,
+  "character_version_id": 1,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 56,
+  "shot_id": 82,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 57,
+  "shot_id": 83,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 58,
+  "shot_id": 86,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 59,
+  "shot_id": 87,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 60,
+  "shot_id": 88,
+  "character_id": 2,
+  "character_version_id": 5,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 61,
+  "shot_id": 89,
+  "character_id": 1,
+  "character_version_id": 1,
+  "created_at": "2026-11-15 13:49:14",
+  "updated_at": "2026-11-15 13:49:14"
+ },
+ {
+  "id": 62,
+  "shot_id": 1,
+  "character_id": 5,
+  "character_version_id": 8,
+  "created_at": "2026-11-15 17:21:14",
+  "updated_at": "2026-11-15 17:21:14"
+ }
+]

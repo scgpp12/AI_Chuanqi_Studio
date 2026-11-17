@@ -1,0 +1,194 @@
+[
+ {
+  "item_id": 2,
+  "picked": 1,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-15 17:32:58",
+  "updated_at": "2026-11-15 17:35:21"
+ },
+ {
+  "item_id": 3,
+  "picked": 0,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-15 17:32:58",
+  "updated_at": "2026-11-15 17:33:32"
+ },
+ {
+  "item_id": 7,
+  "picked": 0,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-15 17:33:00",
+  "updated_at": "2026-11-15 17:33:32"
+ },
+ {
+  "item_id": 9,
+  "picked": 1,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-15 17:33:57",
+  "updated_at": "2026-11-15 17:33:57"
+ },
+ {
+  "item_id": 15,
+  "picked": 0,
+  "choice": "行，沿用",
+  "comment": "",
+  "created_at": "2026-11-15 17:34:08",
+  "updated_at": "2026-11-15 17:34:08"
+ },
+ {
+  "item_id": 18,
+  "picked": 1,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-15 17:34:26",
+  "updated_at": "2026-11-15 17:34:26"
+ },
+ {
+  "item_id": 23,
+  "picked": 0,
+  "choice": "",
+  "comment": "不说了",
+  "created_at": "2026-11-15 17:32:59",
+  "updated_at": "2026-11-15 17:34:43"
+ },
+ {
+  "item_id": 24,
+  "picked": 0,
+  "choice": "",
+  "comment": "挺好",
+  "created_at": "2026-11-15 17:34:46",
+  "updated_at": "2026-11-15 17:34:46"
+ },
+ {
+  "item_id": 27,
+  "picked": 0,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-15 17:33:02",
+  "updated_at": "2026-11-15 17:33:32"
+ },
+ {
+  "item_id": 29,
+  "picked": 1,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-15 18:05:16",
+  "updated_at": "2026-11-15 18:05:16"
+ },
+ {
+  "item_id": 31,
+  "picked": 1,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-15 18:05:28",
+  "updated_at": "2026-11-15 18:05:28"
+ },
+ {
+  "item_id": 34,
+  "picked": 1,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-15 18:05:40",
+  "updated_at": "2026-11-15 18:05:40"
+ },
+ {
+  "item_id": 36,
+  "picked": 1,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-15 18:05:50",
+  "updated_at": "2026-11-15 18:05:50"
+ },
+ {
+  "item_id": 37,
+  "picked": 0,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-15 18:05:50",
+  "updated_at": "2026-11-15 18:05:55"
+ },
+ {
+  "item_id": 38,
+  "picked": 0,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-15 18:05:58",
+  "updated_at": "2026-11-15 18:06:02"
+ },
+ {
+  "item_id": 42,
+  "picked": 1,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-15 18:06:18",
+  "updated_at": "2026-11-15 18:06:18"
+ },
+ {
+  "item_id": 44,
+  "picked": 1,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-15 18:06:17",
+  "updated_at": "2026-11-15 18:06:17"
+ },
+ {
+  "item_id": 47,
+  "picked": 1,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-15 17:33:02",
+  "updated_at": "2026-11-15 18:06:37"
+ },
+ {
+  "item_id": 49,
+  "picked": 1,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-15 18:06:55",
+  "updated_at": "2026-11-15 18:06:55"
+ },
+ {
+  "item_id": 54,
+  "picked": 0,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-15 17:33:05",
+  "updated_at": "2026-11-15 17:33:32"
+ },
+ {
+  "item_id": 62,
+  "picked": 0,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-15 17:33:04",
+  "updated_at": "2026-11-15 17:33:32"
+ },
+ {
+  "item_id": 127,
+  "picked": 0,
+  "choice": "",
+  "comment": "【v4｜1:08.1｜11-16 07:48】【测试】平台自测留的一句，不是用户的话，可以删。",
+  "created_at": "2026-11-16 07:48:45",
+  "updated_at": "2026-11-16 07:48:45"
+ },
+ {
+  "item_id": 170,
+  "picked": 0,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-17 11:31:27",
+  "updated_at": "2026-11-17 11:31:29"
+ },
+ {
+  "item_id": 171,
+  "picked": 0,
+  "choice": "",
+  "comment": "",
+  "created_at": "2026-11-17 11:31:29",
+  "updated_at": "2026-11-17 11:32:05"
+ }
+]
